@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sneha 👋</h1>
 
-<h3 align="center">Data Analyst | Python • SQL • Power BI • Tableau | Ex-Intern @ Rooman Technologies</h3>
+<h3 align="center">Data Analyst | Python • SQL • Power BI • Tableau </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sneha-gandu" target="_blank">
@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-- 🏢 Ex **Data Analyst Intern @ Rooman Technologies, Bangalore** (Feb–Jun 2025)
+- 🏢 **Data Analyst Intern @ Rooman Technologies, Bangalore** (Feb–Jun 2025)
 - 📊 Cleaned and analysed **50,000+ records** using Python, SQL, and Excel
 - 📉 Built **5+ Power BI dashboards** tracking KPIs — reduced reporting time by 30%
 - 🎓 B.Tech ECE Graduate — Sri Venkateswara Engineering College, Tirupati (79%)
